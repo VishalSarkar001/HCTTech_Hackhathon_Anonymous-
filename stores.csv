@@ -1,0 +1,6 @@
+store_id,store_name,country,city,postal_code,opened_date
+S001,Central Mall,India,Jaipur,302017,2018-05-10
+S002,North Plaza,India,Delhi,110001,2016-11-01
+S003,South Point,India,Mumbai,,2020-02-20
+S004,East Arc,India,Bengaluru,560001,2026-01-01
+S005,,India,Kolkata,700001,2019-07-15

@@ -1,0 +1,11 @@
+rule_id,rule_name,points_per_unit_spend,min_spend_threshold,bonus_points
+1,Standard Earning,0.89,377.57,35
+2,Weekend Bonus,1.14,273.41,157
+3,Festive Points Boost,1.81,246.58,151
+4,Premium Member Reward,1.76,378.28,107
+5,Big Spender Bonus,0.78,394.48,105
+6,Holiday Multiplier,1.7,121.51,157
+7,Birthday Bonus,1.19,324.6,85
+8,Seasonal Reward,1.22,110.91,134
+9,VIP Boost,0.7,388.12,162
+10,New Year Points,0.62,345.63,182
